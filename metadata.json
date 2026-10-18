@@ -1,0 +1,6 @@
+{
+  "name": "All India Government Job Portal",
+  "description": "Complete All-India Central and State Government Job Portal featuring live notifications, admit cards, exam results, answer keys, syllabus, age calculator, and CMS admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
